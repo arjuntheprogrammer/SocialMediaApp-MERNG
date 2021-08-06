@@ -1,7 +1,8 @@
 {
-  "cSpell.words": ["merng"],
+  "cSpell.words": ["gsql", "merng"],
   "git.ignoreLimitWarning": true,
   "files.associations": {
     "*.js": "javascriptreact"
-  }
+  },
+  "terminal.integrated.tabs.enabled": false
 }
