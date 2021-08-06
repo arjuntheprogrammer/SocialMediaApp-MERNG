@@ -1,5 +1,13 @@
 # SOCIAL MEDIA APP - MERNG
 
+## TECH STACK
+
+1. MongoDB
+2. ExpressJS
+3. ReactJS
+4. NodeJS
+5. GraphQL
+
 ## COMMANDS
 
 - npm init -y
