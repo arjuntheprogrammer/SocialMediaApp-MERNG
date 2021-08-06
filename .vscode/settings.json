@@ -1,0 +1,7 @@
+{
+  "cSpell.words": ["merng"],
+  "git.ignoreLimitWarning": true,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  }
+}
